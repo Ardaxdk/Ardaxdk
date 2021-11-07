@@ -1,6 +1,6 @@
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-![aequitasbanner](https://i.hizliresim.com/k6z29ja.gif)
+![aequitasbanner](https://cdn.discordapp.com/attachments/843580830697259018/848554351566913536/tumblr_phz2ph4Hvn1qkz08qo1_540.gif)
 
 ![infinityayraç](https://i.hizliresim.com/ewg2ul7.png)
 
